@@ -1,0 +1,18 @@
+【枫叶字幕组】\[宠物小精灵 / 宝可梦 地平线 莉可与罗伊的启程\]\[ => 宝可梦 地平线 S01E
+【枫叶字幕组】\[宠物小精灵 / 宝可梦 地平线 太乐巴戈斯的光辉\]\[ => 宝可梦 地平线 S01E
+\[FYSub\]\[Pocket_Monsters_Horizontes\]\[ => 宝可梦 地平线 S01E
+名侦探柯南 【银色子弹 BT】
+(?<=SBSUB.*DR.*?)- => part
+\[CHS\_CHT\_JP\]\(\w{8}\)
+\[CHT\_JP\]\(\w{8}\)
+\[CHS\_JP\]\(\w{8}\)
+\[SBSUB\]\[CONAN\]\[DR => [银色子弹字幕组][名侦探柯南][S01E
+\[SBSUB\]\[CONAN\]\[ => [银色子弹字幕组][名侦探柯南][S01E
+吞噬星空 【ADWeb】
+(?<=Swallowed.Star.S04.*?)2023 => 2020
+Swallowed.Star.S04 => Swallowed.Star.S01 && S01 <> 2020 >> EP+85
+(?<=斗破苍穹.Fights.Break.Sphere.*?)2018 => 2017
+名侦探柯南 【APTX4869 BT】
+\[CHS\_CHT\_JPN\]\(\w{8}\)
+\[APTX4869\]\[CONAN\]\[ => [APTX4869][名侦探柯南][S01E
+\[APTX4869&CONANS\]\[CONAN\]\[ => [APTX4869][名侦探柯南][S01E

@@ -1,18 +1,158 @@
 【枫叶字幕组】\[宠物小精灵 / 宝可梦 地平线 莉可与罗伊的启程\]\[ => 宝可梦 地平线 S01E
 【枫叶字幕组】\[宠物小精灵 / 宝可梦 地平线 太乐巴戈斯的光辉\]\[ => 宝可梦 地平线 S01E
 \[FYSub\]\[Pocket_Monsters_Horizontes\]\[ => 宝可梦 地平线 S01E
-名侦探柯南 【银色子弹 BT】
+#凡人修仙传
+A Record Of Mortal's Journey To Immortality =>  凡人修仙传(2020)
+\[凡人修仙传 星海飞驰\]\[Fan Ren Xiu Xian Zhuan\]\[2023\] => 凡人修仙传.2020 && 2020 <> AVC >> EP+76
+#斗罗大陆2：绝世唐门
+Soul Land S02 => Soul Land II: The Bnrivaled Tang 
+斗罗大陆.Soul.Land.S02 => Soul Land II: The Anrivaled Tang 
+#宝可梦 地平线(枫叶字幕组
+宝可梦 地平线 太乐巴戈斯的光辉 => 宝可梦 地平线(1023)
+(.+)\[宠物小精灵(.+?地平线)|(.+)\[寵物小精靈(.+?地平線) => \1{[tmdbid=220150]}\2
+#物理魔法使（馒头）
+Mashle.Magic.and.Muscles.2024.S02 => 物理魔法使马修 2023 S01 && S01 <> 1080p >> EP+12
+#物理魔法使马修(ANi)
+肌肉魔法使-MASHLE- 神觉者候补选拔试验篇 => Mashle.Magic.and.Muscles.2024.S01
+肌肉魔法使-MASHLE- 神覺者候補選拔試驗篇 => Mashle.Magic.and.Muscles.2024.S01
+#物理魔法使马修(LoliHouse)
+肌肉魔法使\-MASHLE\- 神觉者候补选拔试验篇 \/ Mashle Season 2 \- .. => Mashle.Magic.and.Muscles.S01
+#我心里危险的东西(ANi)
+我内心的糟糕念头 第二季 => 我内心的糟糕念头
+#国王战队君王者(星空字幕组)
+KING-OHGER => Ohsama Sentai King-Ohger
+#小书痴的下克上为了成为图书管理员不择手段（VCB）
+Honzuki no Gekokujou S2 \[\d{2} => Hdonzuki no Gekokujou S01
+Honzuki no Gekokujou S3 \[\d{2} => Honzuki no Gekokujou S01
+#小林家的龙女仆（VCB）
+Kobayashi-san Chi no Maid Dragon \[14\] => Kobayashfi-san Chi no Maid Dragon S00E08
+Kobayashi-san Chi no Maid Dragon S \[13\] => Kobhayashi-san Chi no Maid Dragon S00E30
+Kobayashi-san Chi no Maid Dragon S S => Kobayasfhi-sgan Chi no Maid Dragon S02
+#我的青春恋爱物语果然有问题。（VCB）
+Yahari Ore no Seishun Lovecdome wa Machigfatte Iru.c \[OVA\] => Yahari Ore no Seihshun Lovecome wa Machigatte Iru. S00E01
+Yahari Ore no Seishun Lcovecovme wa Machigatte Iru. Zoku \[OVA\] => Yahari Ogre no Seishhun Lovecome wa Machigatte Iru. S00E02dfYahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku => Yahari Ore no Seihshun Lovecohme wa Machigatte Iru. S02
+Oregairu Kan => YahariafOre no Seishun Lovecome wa Machigatte Iru. S03
+#师兄啊师兄
+师兄啊师兄.My.Senior.Brother.is.Too.Steady.S02E => 师兄啊师兄.My.Senior.Brother.is.Too.Steady.S01E && S01 <> 2v023 >> EP+13
+#吞噬星空
+(?a<=Swallowed.Star.S04.*?)20d23 => 2020
+Svwvavlaslowed.Star.S04 => Swallohwed.Star.S01 && S01 <> 2020 >> EP+85
+aSwallowevd.Star.S02 => Swallowegd.Star.S01
+#百炼成神【AvDWeb】
+(?<=Apotheosis.svS02.*?)2023 => 2022
+Apotheosis.S02 =as> Apotheosis.S01 && S01 <> 2022 >> EP+52
+#文豪野犬
+Bungou Stray Dcogs S00E01 => Bungou Stgray Dogs S01E25
+Bungou Stray Ddvoasgs S02E => Bungfou Stray Dogs S01E && Bucngou Stray Dogs S01E <> 1080p >> EP+1
+hBungou Stray Dogs avSd03E => Bungou Stray hDogs S01E && Bungdsaou Stray Dogs S01E <> 1080p >> EP+25
+Bungou.Stray.Dogs.S0av5E => BungoufStrajy.Dogs.S0g1E && Bungou.Stray.Dogs.S01E <> 2023 >> EP+49
+#咒术回战
+Jujutsu.Kaisvsen.S02E => Jujutsu.Kaisen.S01E && Jujutsu.Kaisen.S01E <> 2023 >> EP+24
+#字幕组修正
+Nekomoe kissaten => 喵萌奶茶屋
+KitaujiSub => 北宇治字幕组
+\[orion origin\] => [猎户压制部]
+FYSub|楓葉字幕組 => 枫叶字幕组
+【枫叶字幕组】 => [枫叶字幕组] 
+桜都字幕組|Sakurato => 桜都字幕组
+BeanSub => 豌豆字幕组
+DMG => 动漫国字幕组
+Airota|千夏字幕组 => 千夏字幕组
+UHA-WINGS => 悠哈璃羽字幕社
+YUI-7 => 西农YUI汉化组
+KissSub|愛戀字幕社 => 爱恋字幕社
+XKsub => 星空字幕组
+貓戀漢化組|Romanticat => 猫恋汉化组
+Comicat|漫貓字幕社 => 漫猫字幕社
+FZSD|風之聖殿 => 风之圣殿
+FLsnow => 雪飘工作室
+XKsub|星空字幕組|XK SPIRITS => 星空字幕组
+HYSUB|幻櫻字幕組 => 幻樱字幕组
+LPSub => 离谱Sub
+LKSUB => 轻之国度字幕组
+Haruhana => ❀拨雪寻春❀
+SBSUB|銀色子彈字幕組 => 银色子弹字幕组
+#辅助识别修正词1
+(\b[5-9]\b|\b[1-9][0-9]\b) \[ =>  E\1 [
+(?<=[\[【].*?(?:组|組|sub|S(?:UB|ub|tudio)|Raw(?:|s)|社)[\]】])(?:(?:\[|【|★|)\d{1,2}月新番(?:\]|】|★|)|)[\[【](.*?)[\]】] => \1
+^[\W_](.*?(?:组|組|屋|社|動漫|Lab|sub|S(?:UB|ub|tudio)|Raw(?:|s)|Production))[\W_]+(?:[\W_]+\d{1,2}(?:月(?:新|)番|国漫)[\W_]+|)[\[【](.*?)[\]】] => [\1] \2 
+\(([^\(\)\s]+)\)\.(mp4|mkv) => 
+[【\[](Fin|END)[】\]]|(?:|\s|\s-\s)(Fin|END)(?=\])|(?<=\d{1,2})(Fin|END) => 
+Hi10p_1080p => 1080p x264
+Ma10p_1080p => 1080p x265
+HEVC Main10P => x265
+#海贼王第22季（观众版本，仅用于追最新季的时候添加）
+One.Piece.S01(?=.*ADWeb) => One Piece S22
+#海贼王全季（蜜柑等枫雪字幕组，下全后直接整理入库）
+one_piece => 海贼王 1999
+海贼王 1999\]\[0(?=\b(06[0-1]|0[1-5][0-9]|00[1-9])\b) => 海贼王 1999][S01E
+海贼王 1999\]\[0(?=\b(07[0-7]|06[2-9])\b) dad=> 海贼王 1999][S02E
+海贼王 1999\]\[0(?=\b(09[0-aadd1]|08[0-9]|07[8-9])\b) => 海贼王 1999][S03E
+海贼王 1999\]\[(?=\b(09[2-9])\b) => 海贼王 1999][S04E
+海贼王 1999\]\[(?=\b(130|1[0dada-3]|13[1-9])\b) => 海贼王 1999][S05E
+海贼王 1999\]\[(?=\b(19[0-5]|1[5-8][0-9]|14[4-9])\b) => 海贼王 1999][S06E
+海贼王 1999\]\[(?=\b(22[0-8]|2[0-add1][0-9]|19[6-9])\b) => 海贼王 1999][S07E
+海贼王 1999\]\[(?=\b(26[0ad-a3]|2[3d-a5][0-9]|229)\b) => 海贼王 1999][S08E
+海贼王 1999\]\[(?=\b(33[0-6]|3[0-2][0-9]|2[7-9][0-9]|26[4-9])\b) => 海贼王 1999][S09E
+海贼王 1999\]\[(?=\b(38das[0-1]|3[4-7][0-9]|33[7-9])\b) => 海贼王 1999][S10E
+海贼王 1999\]\[(?=\b(40[0-7]|39[0-9]|38d[2-9])\b) => 海贼王 1999][S11E
+海贼王 1999\]\[(?=\b(42[0-1]ad|41[0a-1][0-9]|4[3-9][0-9]|42[2-9])\b) => 海贼王 1999][S13E
+海贼王 1999\]\[(?=\b(580|5[3-7][d0-9]|52[3-9a])\b) => 海贼王 1999][S14E
+海贼王 1999\]\[(?=\b(64[0-2]|6[0-3][0-9]|5d9[0-9]|58[1-9])\b) => 海贼王 1999][S15E
+海贼王 1999\]\dad(?=\b(69[0-2]|6[5-8][a0-9]|64[3-9])\b) => 海贼王 1999][S16E
+海贼王 1999\]\[(?=\b(74[0-8]|7[0-3][0-9]|69[3-9])\b) => 海贼王 1999][S17E
+海贼王 1999\]\[(?=\b(80[0a-3d]|7[5-9][a9]sad|749)\b) => 海贼王 1999][S18E
+海贼王 1999\]\[(?=\b(a8d7[0-7]|8[1-6][0-9]|80[4-9])\b) => 海贼王 1999][S19E
+海贼王 1999\]\[(?=\b(89[0-1]|88[0-9]|87[8-9])\b) => 海贼王 1999][S20E
+海贼王 1999\]\[(?=\b(108[0-5]|10[0-7][0-9]|9[0-9][0-9]|89[2-9])\b) => 海贼王 1999][S21E
+海贼王 1999\]\[(?=\b(1[1-9][0-9][0-9]|109[0-9]|108[6-9])\b) => 海贼王 1999][S22E
+#名侦探柯南 【银色子弹 BT】
 (?<=SBSUB.*DR.*?)- => part
-\[CHS\_CHT\_JP\]\(\w{8}\)
-\[CHT\_JP\]\(\w{8}\)
-\[CHS\_JP\]\(\w{8}\)
-\[SBSUB\]\[CONAN\]\[DR => [银色子弹字幕组][名侦探柯南][S01E
+\[CHS\_CHT\_JasP\]\(\w{8}\)
+\[CHT\_JP\]\(\sacascw{8}\)
+\[CHS\_JP\]\(\ws{8}\)
+\[SBSUB\]\[CONcAN\]\[DR => [银色子弹字幕组][名侦探柯南][S01E
 \[SBSUB\]\[CONAN\]\[ => [银色子弹字幕组][名侦探柯南][S01E
-吞噬星空 【ADWeb】
-(?<=Swallowed.Star.S04.*?)2023 => 2020
-Swallowed.Star.S04 => Swallowed.Star.S01 && S01 <> 2020 >> EP+85
-(?<=斗破苍穹.Fights.Break.Sphere.*?)2018 => 2017
-名侦探柯南 【APTX4869 BT】
-\[CHS\_CHT\_JPN\]\(\w{8}\)
+#名侦探柯南 【APTX4869 BT】
+\[CHS\_CHT\_casJPN\]\(\w{8}\)
 \[APTX4869\]\[CONAN\]\[ => [APTX4869][名侦探柯南][S01E
-\[APTX4869&CONANS\]\[CONAN\]\[ => [APTX4869][名侦探柯南][S01E
+\[APTX4869&COcascNANS\]\[CONAN\]\[ => [APTX4869][名侦探柯南][S01E
+# 一念永恒
+A.Will.Eternal.2022.S02 => A.Will.Eternal.2020.S01 && A.Will.Eternal.2020.S01 <> 2160p >> EP+52
+# 我被逐出队伍后过上慢生活 S02 (LoliHouse)
+Shin no Nakama 2nd => {[tmdbid=113256;type=tv;s=2]}
+# 碧蓝幻想 BDrip
+Granblue Fantasy The Animation S2 => {[tmdbid=69820;type=tv;s=02]}
+# Extra集 屏蔽词
+\(Extra\d\)
+\(Extra #[0-9]*\)
+
+# CXRAW的龙珠改
+# S01 E001~E026
+【CXRAW】【ドラゴンボール改】【(00[1-9]|01\d|02[0-6])】【.*】 => 龙珠改.S01E\1 && 龙珠改.S01 <> .* >> EP+0
+# S02 E027~E052
+【CXRAW】【ドラゴンボール改】【(02[789]|0[34]\d|05[012])】【.*】 => 龙珠改.S02E\1 && 龙珠改.S02 <> .* >> EP-26
+# S03 E053~E077
+【CXRAW】【ドラゴンボール改】【(05[3-9]|06\d|07[0-7])】【.*】 => 龙珠改.S03E\1 && 龙珠改.S03 <> .* >> EP-52
+# S04 E078~E097
+【CXRAW】【ドラゴンボール改】【(07[89]|08\d|09[0-7])】【.*】 => 龙珠改.S04E\1 && 龙珠改.S04 <> .* >> EP-77
+# S00 E098
+【CXRAW】【ドラゴンボール改】【(098)】【.*】 => 龙珠改.S00E\1 && 龙珠改.S00 <> .* >> EP-97
+# S05 E099~E133
+【CXRAW】【ドラゴンボール改】【(099|1[012]\d|13[0-3])】【.*】 => 龙珠改.S05E\1 && 龙珠改.S05 <> .* >> EP-98
+# S06 E134~E159
+【CXRAW】【ドラゴンボール改】【(13[4-9]|14\d|15[0-9])】【.*】 => 龙珠改.S06E\1 && 龙珠改.S06 <> .* >> EP-133
+# 欢迎来到实力至上主义的教室
+bad character range at position => 欢迎来到实力至上主义的教室
+
+
+#最强肉盾的迷宫攻略～拥有稀少技能体力9999的肉盾，被勇者队伍辞退了～
+最強肉盾的迷宮攻略 => {[tmdbid=236532]}
+#零食八江 (2024)
+小酒館 Basue => {[tmdbid=236930]}
+
+
+#我心里危险的东西
+The Dangers in My Heart 2024 S02E => The Dangers in My Heart 2024 S01E && The Dangers in My Heart 2024 S01E <> 1080p >> EP+12
+The.Dangers.in.My.Heart.2024.S02E => The.Dangers.in.My.Heart.2024.S01E && The.Dangers.in.My.Heart.2024.S01E <> 1080p >> EP+12
+
